@@ -1,5 +1,5 @@
 ## Calcolo Del Codice Fiscale [Rust Lang]
-
+<img src="https://github.com/fortunatodeangelis/rust-codice-fiscale/blob/main/rust-codice-fiscale-logo.png" alt="rust-codice-fiscale">
 
 
 ## Contributing
