@@ -1,4 +1,4 @@
-## Calcolo Del Codice Fiscale
+## Calcolo Del Codice Fiscale [![Build Status](https://travis-ci.com/fortunatodeangelis/rust-codice-fiscale.svg?branch=main)](https://travis-ci.com/fortunatodeangelis/rust-codice-fiscale)
 <img src="https://github.com/fortunatodeangelis/rust-codice-fiscale/blob/main/rust-codice-fiscale-logo.png" alt="rust-codice-fiscale">
 
 
